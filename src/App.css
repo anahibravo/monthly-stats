@@ -8,6 +8,11 @@ body{
  
 }
 
+/* App-js style*/
+
+
+
+
 /* main-js style*/
 .main--container{
   display: block;
@@ -18,10 +23,10 @@ body{
 }
 
 .main--heading{
-  height: 85px;
+  height: 60px;
   margin: 100px;
   text-shadow: 3px 2px 3px white;
-  
+
 }
 
 .main--button{
