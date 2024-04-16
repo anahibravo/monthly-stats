@@ -25,11 +25,9 @@ body{
   height: 60px;
   margin: 100px;
   text-shadow: 3px 2px 3px white;
-
 }
 
-.home--button{
-  
+.home--button, .info--button{
   background-color: rgb(84, 166, 249);
   border-radius: 30px;
   border: none;
@@ -37,6 +35,22 @@ body{
   width: 115px;
   height: 40px;
   box-shadow: 1px 1px 2px black;
+}
+
+/* info jsx style*/
+.info--form{
+  width: auto;
+  height: 300px;
+}
+
+.info--input{
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  margin: 40px;
   
-  
+}
+
+.info--button{
+  justify-content: center;
 }
