@@ -5,31 +5,30 @@
 body{
   margin: 0px;
   background-image: linear-gradient(rgb(254, 141, 254), white);
- 
+  display: block;
+  height: 400px;
+  width:auto;
 }
 
 /* App-js style*/
 
 
 
-
-/* main-js style*/
-.main--container{
-  display: block;
-  height: 400px;
-  width:auto;
+/* home-js style*/
+.home--container{
+  
   text-align: center;
   font-size: 20px;
 }
 
-.main--heading{
+.home--heading{
   height: 60px;
   margin: 100px;
   text-shadow: 3px 2px 3px white;
 
 }
 
-.main--button{
+.home--button{
   
   background-color: rgb(84, 166, 249);
   border-radius: 30px;

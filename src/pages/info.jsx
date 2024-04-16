@@ -1,10 +1,10 @@
 import React from "react";
 
 
-export function Page2(){
+export function Info(){
     return (
         <div>
-            <h1>this is page2</h1>
+            <h1>this is the information page</h1>
         </div>
     )
 }

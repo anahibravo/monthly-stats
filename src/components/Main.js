@@ -1,6 +1,5 @@
 import React from "react";
-
-
+import {Link} from "react-router-dom";
 
 export default function Main(){
     return(
@@ -8,7 +7,7 @@ export default function Main(){
         <h1 className="main--heading">
             Monthly Statistics
         </h1>
-        <button className="main--button"> Start </button>
+       
     </div>
     )
 }
